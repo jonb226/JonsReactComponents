@@ -1,4 +1,4 @@
-/*jslint mode:node, mode:esnext*/
+/*jslint node:true,esnext:true*/
 'use strict';
 
 var React = require('react');
