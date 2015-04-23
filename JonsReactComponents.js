@@ -1,8 +1,8 @@
 /*jslint node:true,esnext:true*/
 'use strict';
 
-let SlidingTransitionView = require('SlidingTransitionView.js');
-let SlidingTransitionViewPane = require('SlidingTransitionViewPane.js');
+let SlidingTransitionView = require('./SlidingTransitionView.jsx');
+let SlidingTransitionViewPane = require('./SlidingTransitionViewPane.jsx');
 
 module.exports = {
     SlidingTransitionView,
