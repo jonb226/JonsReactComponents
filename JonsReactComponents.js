@@ -3,8 +3,10 @@
 
 let SlidingTransitionView = require('./SlidingTransitionView.jsx');
 let SlidingTransitionViewPane = require('./SlidingTransitionViewPane.jsx');
+let Toolbar = require('./Toolbar.jsx');
 
 module.exports = {
     SlidingTransitionView,
-    SlidingTransitionViewPane
+    SlidingTransitionViewPane,
+    Toolbar
 };
