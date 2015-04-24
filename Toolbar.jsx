@@ -2,7 +2,7 @@
 'use strict';
 
 var React = require('react');
-var m = require('JonsReactComponents').merge;
+var m = require('./merge.js');
 
 module.exports = React.createClass({
     goBack: function () {
